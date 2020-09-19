@@ -1,0 +1,7 @@
+C:\Users\ACF_10\source\repos\Maria13579\proyecto-iva\iva\iva\bin\Debug\iva.exe.config
+C:\Users\ACF_10\source\repos\Maria13579\proyecto-iva\iva\iva\bin\Debug\iva.exe
+C:\Users\ACF_10\source\repos\Maria13579\proyecto-iva\iva\iva\bin\Debug\iva.pdb
+C:\Users\ACF_10\source\repos\Maria13579\proyecto-iva\iva\iva\obj\Debug\iva.csprojAssemblyReference.cache
+C:\Users\ACF_10\source\repos\Maria13579\proyecto-iva\iva\iva\obj\Debug\iva.csproj.CoreCompileInputs.cache
+C:\Users\ACF_10\source\repos\Maria13579\proyecto-iva\iva\iva\obj\Debug\iva.exe
+C:\Users\ACF_10\source\repos\Maria13579\proyecto-iva\iva\iva\obj\Debug\iva.pdb
