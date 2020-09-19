@@ -18,6 +18,7 @@ namespace iva
             Console.WriteLine("------------------------------");
             Console.WriteLine("Digite el numero de opcion que desea:");
             op = int.Parse(Console.ReadLine());
+
             return op;
             
 

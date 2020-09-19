@@ -11,7 +11,7 @@ namespace iva
 {
     class opera:prosiniva
     {
-        public prosiniva ope = new prosiniva();
+        
         public string Resultado(char t)
         {
             double total = 0;
@@ -20,11 +20,11 @@ namespace iva
             {
                 if(t=='c')
                 {
-                    total = ope.Prodsiniva(Pedir());
+                    total = Prodsiniva(Pedir());
                 }
                 else if(t=='i')
                 {
-                    total = ope.ivadelproducto(Pedir());
+                    total = ivadelproducto(Pedir());
                 }
                 Console.WriteLine("Desea ingresar otro producto [s/n]");
                 op = char.Parse(Console.ReadLine());
